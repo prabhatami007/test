@@ -1,5 +1,5 @@
 <?php
-
+//Changed By prabhat
 define( 'GD_VIP', '160.153.137.19' );
 define( 'GD_RESELLER', 1 );
 define( 'GD_ASAP_KEY', '7fde5615f79c07958c62a1db27362785' );
